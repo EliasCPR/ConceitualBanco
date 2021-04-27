@@ -1,0 +1,27 @@
+Carro - Cliente - Apólise - Carro - Acidentes
+
+Cliente
+- idClientes
+nome
+telefone
+email
+endeco
+rg 
+cpf
+
+Apólise
+- idApolise
+Tipo 
+dataEmisão
+dataExpiração
+valor
+
+Carro
+- idCarro
+modelo
+ano
+
+Acidentes
+- idAcidentes
+nivelAtividade
+tipo

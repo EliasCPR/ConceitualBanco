@@ -1,0 +1,22 @@
+Funcionarios
+	idFuncionarios
+	numero(cel)
+	endereço
+	nome
+	Engenheiros
+	Secretarias
+		bilingue
+		
+	Motoristas
+		cnh
+		pontos
+Departamento
+	idDepartamento
+	numero
+	andar
+	tel
+
+Acidentes
+	idAcidentes
+	tipo
+	Nivel

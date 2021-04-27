@@ -1,0 +1,20 @@
+DEPARTAMENTO
+ -idDepartamento
+ -qtdFuncionarios
+ -andar
+ -telefone
+ -endereço
+
+ALUNOS
+ -idAluno
+ -nome
+ -idade
+ -telefone
+ -matricula
+
+CURSO
+ -idCurso
+ -diciplina
+ -carga horaria
+ -sala
+ -professores

@@ -1,0 +1,7 @@
+condominio 
+bloco
+unidade   = casa
+pessoa    = morador 
+
+ 
+ 

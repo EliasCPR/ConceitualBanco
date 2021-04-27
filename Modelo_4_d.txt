@@ -1,0 +1,17 @@
+EMPRESAS
+    idEmpresa
+    nome
+    endereço
+    CNPJ-------
+                        \
+                     <Possui>      
+CONTRATO         \
+    idContrato----
+    serviços------
+                          \
+                           \
+ADVOGADO       <Possui>
+    idAdvogado      \
+    nome-------------    
+    telefone
+    registro

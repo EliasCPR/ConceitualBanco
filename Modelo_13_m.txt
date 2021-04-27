@@ -1,0 +1,19 @@
+LIVRO
+-idLivro
+-autor
+-genero
+-tipoLeitura
+-qtdEstoque
+-localização
+-areaConhecimento
+-editora
+
+CLIENTE
+-idCliente
+-nome
+-telefone
+-numeroCartera
+-historico
+	-prazos
+	-multas(0,n)
+	-qtdLivrosRetirado

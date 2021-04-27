@@ -1,0 +1,54 @@
+Funcionario - Departamento - 
+Funcionario - projeto - Fornecedores - 
+(Projeto - peça) - 
+peça - fornecedores  
+(deposito - peça) 
+Fornecedor - Material - projeto
+
+Mateiral
+-idMaterial
+tipo
+valor
+
+Funcionario
+- idFuncionario
+nome
+telefone
+email
+endereco
+sálarioMensal
+
+Departamento
+-idDepartamento
+endereco
+setor
+filiais
+telefone
+
+
+Fornecedor
+- idFornecedor
+nome
+telefone
+email
+endereco
+
+Peça
+-idPeca
+tipo
+tamanho
+quantidade
+valorTotal
+
+Deposito
+-idDeposito
+endereco
+capacidade
+quantidadeOcupada
+
+projeto
+-idProjeto
+inicio
+termino
+custo
+finalidade

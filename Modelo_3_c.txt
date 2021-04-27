@@ -1,0 +1,34 @@
+FUNCIONÁRIOS
+/\ 	idFuncionários
+|	Nome
+|	numero
+|	endereço
+|	email
+|
+SUPLENTE
+RESPONSAVEL
+		    
+			    
+//EMPRESA	  
+//	IdEmpresa
+//	onde
+//	Nome
+//	numero(cel)
+
+SETOR
+	idSetor
+	materialDeProdução
+	totalPeças
+
+PEÇAS
+ 	idPeças
+	tamanho
+	valor
+	tipo
+
+
+MATERIA_PRIMA
+	idMaterial
+	tipo
+	valor
+ 

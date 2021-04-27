@@ -1,0 +1,22 @@
+Equipes
+	idEquipes
+	chefe
+	areas
+	
+Pescador
+	idPescador
+	nome
+	n° de identificação
+	cell
+	
+Peixe
+	idPeixe
+	tipo
+	peso
+	tamanho
+	sexo
+
+Temporada
+	idTemporada
+	estação
+	totalPontos
